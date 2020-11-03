@@ -1,0 +1,15 @@
+.border {
+    border: 1px solid black;
+    border-radius: 25px 25px 25px 25px;
+	width: 600px;
+	height: 300px;
+	margin-left:30%;
+   }
+#top{text-align: center;}
+
+#text{padding-left: 250px}
+   
+#image{
+	position:absolute; 
+	padding-left: 20px;
+}
